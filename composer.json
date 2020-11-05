@@ -1,0 +1,12 @@
+{
+  "name":  "kthanasioimpacta/exemploMVC-front",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:kthanasioimpacta/exemploMVC-front.git"
+    }
+  ],
+  "require": {
+    "kthanasioimpacta/exemploMVC-back": "1.0.0"
+  }
+}
